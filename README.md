@@ -1,6 +1,9 @@
 #Callen Thomason
+10/9/26
+Break Homework
+I used all of my knowledge of databases and api to create a wrestler api
 
-Go through so that different inputs have differnt error messages. Right now inputting invalid information makes it so "No wrestler was found with id". 
+
 
 
  {
